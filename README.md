@@ -22,13 +22,13 @@ As principais libraries utilizadas no projeto:
 
 Imagens do projeto:
 
-|                 |                       |
+| ![](Countries.png)     |     ![](CountriesDetail.png)                  |
 | --------------- | --------------------- |
 | CountryActivity | CountryDetailActivity |
 
 Relatório dos testes unitários:
 
-|                         |                    |                             |                     |
+|             ![](Relatorio1.png)            |             ![](Relatorio3.png)         |                    ![](Relatorio2.png)           |               ![](Relatorio4.png)        |
 | ----------------------- | ------------------ | --------------------------- | ------------------- |
 | CountriesRepositoryImpl | CountriesViewModel | GetCountrySearchNameUseCase | GetCountriesUseCase |
 
