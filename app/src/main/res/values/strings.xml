@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Countries</string>
+    <string name="country">Country:</string>
+    <string name="capital">Capital:</string>
+    <string name="region">Region:</string>
+    <string name="area">Area:</string>
+    <string name="population">Population:</string>
+    <string name="search">Enter country name...</string>
+</resources>

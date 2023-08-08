@@ -1,0 +1,4 @@
+<resources>
+    <string name="message_error">Um erro aconteceu!</string>
+    <string name="try_again">Tente Novamente</string>
+</resources>
