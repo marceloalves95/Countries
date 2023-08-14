@@ -18,6 +18,7 @@ As principais libraries utilizadas no projeto:
 - Glide (Ele é usado para o carregamento das imagens vindo da API)
 - FacebookShimmer (Ele é usado para mostrar o estado de carregamento da tela)
 - AssertK e Mockk (Eles são usados nos testes unitários)
+- Barista (Ele é usado para os testes de instrumentação)
 - Jacoco (Ele é usado para gerar os relatórios de testes unitários do projeto)
 
 Imagens do projeto:
