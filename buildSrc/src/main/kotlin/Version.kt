@@ -34,4 +34,5 @@ object Version {
     const val ext_junit_version = "1.1.5"
     const val test_runner_version = "1.5.2"
     const val espresso_core_version = "3.5.1"
+    const val hamcrest_version = "2.2"
 }

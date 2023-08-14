@@ -99,5 +99,7 @@ dependencies {
     androidTestImplementation(Dependencies.Testing.AutomatedTest.ext_junit)
     androidTestImplementation(Dependencies.Testing.AutomatedTest.barista)
     androidTestImplementation(Dependencies.Testing.AutomatedTest.espresso_core)
+    androidTestImplementation(Dependencies.Testing.AutomatedTest.espresso_accessibility)
+    androidTestImplementation(Dependencies.Testing.AutomatedTest.hamcrest)
 
 }

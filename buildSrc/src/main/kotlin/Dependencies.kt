@@ -79,6 +79,8 @@ object Dependencies {
             const val ext_junit = "androidx.test.ext:junit:${Version.ext_junit_version}"
             const val test_runner = "androidx.test:runner:${Version.test_runner_version}"
             const val espresso_core = "androidx.test.espresso:espresso-core:${Version.espresso_core_version}"
+            const val espresso_accessibility = "androidx.test.espresso:espresso-accessibility:${Version.espresso_core_version}"
+            const val hamcrest = "org.hamcrest:hamcrest:${Version.hamcrest_version}"
         }
     }
 }
